@@ -1,10 +1,10 @@
-<h1> Weather App <h1>
+# Weather App 
 
 Fetch yöntemiyle Open Weather Map API'dan en son
 hava durumu verileri alınarak oluşturduğum çalışmamı sunuyorum.
 
 
-<h1> Kullanılan Teknolojiler <h1>
+# Kullanılan Teknolojiler
 
 HTML, CSS ve JS 
 
