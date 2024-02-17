@@ -8,6 +8,6 @@ hava durumu verileri alınarak oluşturduğum çalışmamı sunuyorum.
 
 HTML, CSS ve JS 
 
-#Ekran Görüntüsü
+# Ekran Görüntüsü
 
 ![](ekran1.gif)
